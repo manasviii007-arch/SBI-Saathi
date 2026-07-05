@@ -193,10 +193,4 @@ Built by **Team Ŝeŝko**:
 
 ---
 
-## 🔗 Links
-
-- **Pitch Deck:** [LINK]
-
----
-
 <p align="center"><i>Saathi — because knowing what you want should be enough.</i></p>
