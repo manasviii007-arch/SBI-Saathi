@@ -86,7 +86,6 @@ sbi-saathi/
 │   ├── package.json
 │   ├── postcss.config.js
 │   ├── tailwind.config.js
-│   ├── vercel.json
 │   └── vite.config.js
 ├── README.md
 ```
