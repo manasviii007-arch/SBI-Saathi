@@ -1,0 +1,11 @@
+{
+  "buildCommand": "cd ai-banking-frontend && npm run build",
+  "outputDirectory": "ai-banking-frontend/dist",
+  "devCommand": "cd ai-banking-frontend && npm run dev",
+  "rewrites": [
+    {
+      "source": "/((?!_next/|favicon\\.ico).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
