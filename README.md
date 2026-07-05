@@ -67,7 +67,6 @@ Speech is captured, understood via Sarvam AI (with Gemini as a fallback for edge
 - **Voice/Language Understanding:** Sarvam AI (primary), Gemini API (fallback)
 - **State Management:** Zustand
 - **Execution Layer:** Real-time DOM navigation
-- **Deployment:** Vercel
 
 ---
 
@@ -90,7 +89,6 @@ sbi-saathi/
 │   ├── vercel.json
 │   └── vite.config.js
 ├── README.md
-└── vercel.json
 ```
 
 ---
@@ -126,17 +124,6 @@ Frontend will be running at `http://localhost:5173` (Vite default)
 
 ---
 
-## ▶️ Trying the Demo
-
-1. Make sure both backend and frontend servers are running
-2. Open the app and grant microphone access
-3. Tap the mic button and say something like: **"Bijli ka bill bharna hai"**
-4. Watch Saathi navigate to the bill payment screen, spotlight the required fields, and guide you to completion
-5. Confirm the final action manually — Saathi never auto-submits
-
-[ADD ANY SPECIFIC TEST PHRASES / ACCOUNT DETAILS NEEDED FOR THE DEMO TO WORK]
-
----
 
 ## 🔒 Guardrails
 
@@ -206,7 +193,6 @@ Built by **Team Ŝeŝko**:
 
 ## 🔗 Links
 
-- **Live Prototype:** [LINK]
 - **Pitch Deck:** [LINK]
 
 ---
