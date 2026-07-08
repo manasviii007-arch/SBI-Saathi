@@ -136,13 +136,13 @@ Banking demands trust, so Saathi is built with hard constraints, not just good i
 
 ## 📸 Screenshots
 
-[APP SCREENSHOT — Home screen / voice capture UI] = <img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/78f58e92-3027-4e5b-8b43-d887196dcb0f" />
+ <img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/78f58e92-3027-4e5b-8b43-d887196dcb0f" />
 
 
-[APP SCREENSHOT — Spotlight/guidance moment mid-flow] = <img width="1822" height="916" alt="image" src="https://github.com/user-attachments/assets/69a2b62c-79c4-4377-b475-c1ceb44217b6" />
+ <img width="1822" height="916" alt="image" src="https://github.com/user-attachments/assets/69a2b62c-79c4-4377-b475-c1ceb44217b6" />
 
 
-[APP SCREENSHOT — Task completion + recommendation moment] = <img width="1822" height="891" alt="image" src="https://github.com/user-attachments/assets/56e95f99-64dd-41ab-9b01-ce49cc045e13" />
+ <img width="1822" height="891" alt="image" src="https://github.com/user-attachments/assets/56e95f99-64dd-41ab-9b01-ce49cc045e13" />
 
 
 ---
@@ -189,7 +189,7 @@ Built by **Team Ŝeŝko**:
 - **Manasvi Chugh**
 - **Atharva Kulkarni**
 
-strictly for SBI HACKATHON '26, and above mentioned members are the only ones in originali dev team.
+strictly for SBI HACKATHON '26, and above mentioned members are the only ones in original dev team.
 ---
 
 <p align="center"><i>Saathi — because knowing what you want should be enough.</i></p>
