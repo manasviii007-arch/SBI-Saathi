@@ -11,9 +11,8 @@ Built for the **SBI Hackathon, Global Fintech Fest 2026**.
 
 ## 🎥 Demo
 
-[SCREEN RECORDING / GIF OF THE APP IN ACTION GOES HERE — show the bill payment voice flow end-to-end]
 
-[LIVE VERCEL PROTOTYPE LINK GOES HERE]
+https://drive.google.com/file/d/1gmHrBWzdVy2eL25Gt9nPksXno6zjKLYo/view?usp=drivesdk
 
 ---
 
@@ -119,7 +118,6 @@ npm install
 npm run dev
 ```
 
-Frontend will be running at `http://localhost:5173` (Vite default)
 
 ---
 
@@ -191,6 +189,7 @@ Built by **Team Ŝeŝko**:
 - **Manasvi Chugh**
 - **Atharva Kulkarni**
 
+strictly for SBI HACKATHON '26, and above mentioned members are the only ones in originali dev team.
 ---
 
 <p align="center"><i>Saathi — because knowing what you want should be enough.</i></p>
